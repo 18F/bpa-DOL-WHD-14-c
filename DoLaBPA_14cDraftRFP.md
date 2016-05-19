@@ -1,16 +1,18 @@
-# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor 14c
+# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor 
+# Wage and Hour Division
+# Section 14(c) Tool
 
 ## [DATE]
 
 ## 1.0 BACKGROUND
 
--there's info on the blog
+The Department of Labor (DoL) Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options. 
 
 ## 2.0 OBJECTIVES
 
-To create a easy to use online tool which integrates related and linked content to facilitate 14c applications across Department of Labor staff in the Wage and Hour Division.
+The 14(c) process will become a modern, digital-first service. Applicants will be provided an intuitive online experience, guiding them through the information needed to complete their application correctly. Applicants will have the ability to save their progress along the way, submit it to the system and see their application status. The application data will be made available to WHD users to inform certification and enforcement decisions. The product will support policy and process evolution over time, and will support data transparency wherever and however possible.
 
-These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined in later sprints:
+These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs.
 
 #### Applicants: 
 - As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. AC: Data will end up in a database. AC: The applicant must be logged in.
@@ -22,7 +24,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As an Applicant, I want to receive receipt confirmation and status updates via email notifications, so that I know where my application is in the process.
 - As an Applicant I want to be able to upload required documents (time studies) so that I submit a complete application.
  
-#### Certification Team Member/Manager:
+#### Certifying Parties:
 - As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
 - As a Certification Team Manager and a Policy Team Member, I want access to all submitted application data, so that I can continuously evaluate and improve current policy and procedures. AC: Data should be sort-able, searchable and able to produce reports. AC: It should take no longer than 1 minute to pull reports.
 - As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
@@ -32,10 +34,10 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Manager and a Policy Team Member I want to be able to access diary sheets so that I can review potential systemic violations.
 - As a Certification Team Manager, I want the system to assign applications based on set criteria, so that the process is more streamlined.
 - As a Certification Team Manager I want to be able to assign/reassign work so that the workload is balanced.
-- As a Certification Team Manager, Policy Team Member, Certification Team Member, and Non-WHD Interested Party, I want to be able to get descriptive data about the inventory of active and pending certificates so that I understand the current 14c universe.
+- As a Certification Team Manager, Policy Team Member, Certification Team Member, and Non-WHD Interested Party, I want to be able to get descriptive data about the inventory of active and pending certificates so that I understand the current 14(c) universe.
 - As a Certification Team Manager and a Policy Team Member, I need a system that has user friendly reporting functions so that I can provide information upon request (FOIA, etc).
 - As a Certification Team Manager and a Policy Team Member, I want to track inventory so that I can provide reports/status updates to interested WHD parties.
-- As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14c history.
+- As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14(c) history.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I would like to be able to access the applicant's enforcement history from WHISARD within the system, so that the data can be used to inform the certification decision and so that staff spends less time researching and entering information.
 - As a Certification Team Member and a Certification Team Manager, I want the system to communicate with CPS and WHISARD to perform a validity check on the EIN number provided by the employer on the submitted application.
 - As a Certification Team Manager, a Certification Team Member and a a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that "bad actors" are not issued certificates.
@@ -53,7 +55,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 
 ## 3.0 SCOPE
 
-The scope of this task order is for the Contractor to deliver [Insert what we're asking for]. The following 4 sections of the PWS
+The scope of this task order is for the Contractor to deliver the 14(c) tool. The following four sections of the PWS
 describe the technical and administrative components of the
 requirement:
 
@@ -70,7 +72,6 @@ requirement:
 
 The Contractor shall provide the following services:
 
-- *[Active voice bullet points for each desired need]*
 - Vendor (developer) shall to select a technology stack that that stated needs can be accomplished and deployed within the DOL network. Technology Stack options within DOL that are already approved are listed below:
  - LAMP (Linux, Apache, MySql, PHP)
  - JBoss
@@ -82,7 +83,7 @@ The Contractor shall provide the following services:
 - To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
 - Personally Identifiable Information (PII) shall be secure and kept from exposure to unauthorized users.
 - As a WHD and public user, I want some information to have limited access to protect my personal information. (redundant?)
-- As a WHD user I want the 14C system that adapts quickly to changing policies and procedures so that I am not dependent on expensive and long term IT improvements. (aspirational recommend deleting or moving to a different section like background)
+- As a WHD user I want the 14(c) system that adapts quickly to changing policies and procedures so that I am not dependent on expensive and long term IT improvements. (aspirational recommend deleting or moving to a different section like background)
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
 - System must receive Authority to Operate (not on the vendor?)
 - Must interface with DB2
@@ -274,7 +275,7 @@ Contractor personnel shall have:
 
 A strong technical background in the following:
 
-- *[Active voice bullet points for each functional outcome such as]*
+- Technology stack as delineated in Section 4.1.
 
 -   Using one or more front-end JavaScript frameworks to build a
     front-end of a website.
