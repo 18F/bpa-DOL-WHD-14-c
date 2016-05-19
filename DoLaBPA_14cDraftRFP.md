@@ -611,17 +611,16 @@ system.
 
 The following Points of Contact (POC) are applicable to this order:
 
-**Contracting Officer Representative (COR)**: Esther Kim GSA, Office of
+**Contracting Officer Representative (COR)**: Rebecca Refoy-Sidibe GSA, Office of
 Citizen Services and Innovative Technologies (OCSIT) - 18F
-<esther.kim@gsa.gov> (202) 826-7232
+<rebecca.refoy-sidibe@gsa.gov> (202) 809-4519
 
-**Alternative Contracting Officer Representative (ACOR)**: Joshua Bailes
+**Alternative Contracting Officer Representative (ACOR)**: TBD
 GSA, Office of Citizen Services and Innovative Technologies (OCSIT) -
-18F <joshua.bailes@gsa.gov> (202) 550-6659
+18F <email@gsa.gov> (000) 000-0000
 
-**18F Product Manager**: Jessie Posilkin GSA, Office of Citizen Services and
-Innovative Technologies (OCSIT) - 18F <jessie.posilkin@gsa.gov> (202)
-406-4689
+**18F Product Manager**: Rebecca Refoy-Sidibe GSA, Office of Citizen Services and
+Innovative Technologies (OCSIT) - 18F <rebecca.refoy-sidibe@gsa.gov> (202) 809-4519
 
 **Client Product Owner**: *[To Be Determined]*
 
