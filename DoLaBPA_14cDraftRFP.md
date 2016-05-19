@@ -1,4 +1,4 @@
-# PERFORMANCE WORK STATEMENT (PWS) FOR the Department of Labor 14c
+# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor 14c
 
 ## [DATE]
 
@@ -8,24 +8,27 @@
 
 ## 2.0 OBJECTIVES
 
-To create a searchable and easy to navigate Field Operations Handbook which integrates related and linked content to facilitate research across Department of Labor staff in the Wage and Hour Division.
+To create a easy to use online tool which integrates related and linked content to facilitate 14c applications across Department of Labor staff in the Wage and Hour Division.
 
 These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined in later sprints:
 
+#### Applicants: 
 - As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. AC: Data will end up in a database. AC: The applicant must be logged in.
-- As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
-- As a Policy Team Member and a Certification Team Manager, I want access to all submitted application data, so that I can continuously evaluate and improve current policy and procedures. AC: Data should be sort-able, searchable and able to produce reports. AC: It should take no longer than 1 minute to pull reports.
-- As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
 - As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that the time it takes to complete the application is reduced.
 - As an Applicant, I want current links to compliance assistance materials (resources, suggestions, worksheets, data, etc.), so that I can complete the application correctly.
-- As a Certification Team Member, I need a system that allows me to easily navigate within it (logical tabbing, multiple screen use, etc.) so that I can work in a more efficient manner.
 - As an Applicant, I want the ability to log-in, so that the system knows who I am and my information is secure.
 - As an Applicant, I want the ability to save and retrieve my application in progress so I can work on the form in more than one session.
 - As an Applicant, I want certain form fields to be pre-populated with previously used information when I begin a renewal application so that it takes less time to complete the application.
 - As an Applicant, I want to receive receipt confirmation and status updates via email notifications, so that I know where my application is in the process.
 - As an Applicant I want to be able to upload required documents (time studies) so that I submit a complete application.
+ 
+#### Certification Team Member/Manager:
+- As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
+- As a Certification Team Manager and a Policy Team Member, I want access to all submitted application data, so that I can continuously evaluate and improve current policy and procedures. AC: Data should be sort-able, searchable and able to produce reports. AC: It should take no longer than 1 minute to pull reports.
+- As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
+- As a Certification Team Member, I need a system that allows me to easily navigate within it (logical tabbing, multiple screen use, etc.) so that I can work in a more efficient manner.
 - As a Certification Team Member and a Certification Team Manager, I want to be able to document issues/potential violations in an internal diary sheet (saved in historical record) so that systemic problems can be identified and analyzed.
-- As a Policy Team Member and a Certification Team Manager, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
+- As a Certification Team Manager and a a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
 - As a Certification Team Manager and a Policy Team Member I want to be able to access diary sheets so that I can review potential systemic violations.
 - As a Certification Team Manager, I want the system to assign applications based on set criteria, so that the process is more streamlined.
 - As a Certification Team Manager I want to be able to assign/reassign work so that the workload is balanced.
@@ -35,15 +38,18 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14c history.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I would like to be able to access the applicant's enforcement history from WHISARD within the system, so that the data can be used to inform the certification decision and so that staff spends less time researching and entering information.
 - As a Certification Team Member and a Certification Team Manager, I want the system to communicate with CPS and WHISARD to perform a validity check on the EIN number provided by the employer on the submitted application.
-- As a Policy Team Member, a Certification Team Manager and a Certification Team Member, I want the system to flag all previously denied or revoked applicants, so that "bad actors" are not issued certificates.
+- As a Certification Team Manager, a Certification Team Member and a a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that "bad actors" are not issued certificates.
 - As a Certification Team Member, I need a system that allows me to create reports of my workload, organize calendar events and report time spent on activities (WH-40), so that I can manage my work.
 - As a Certification Team Manager I want the system to track specialist time and transfer information to the WH-40 so that time is appropriately charged against a case.
 - As a Certification Team Manager, I want productivity data (number of applications processed, length of time from receipt to decision, etc.) of each specialist so that I can evaluate performance, restructure processes and make other improvements.
 - As a Policy Team member, Certification Team Manager and Applicant, I want the system to provide the online calculators as an option, so that standard and accurate information is submitted.
+- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance is needed and/or where we might target for strategic enforcement.
 - As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data so that I can effectively perform the investigation.
 - As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
+ 
+#### Parent:
 - As a Parent, I want to know if my child's employer holds a certificate so that I know the employer has the right to pay less than the minimum wage.
-- As a Policy Team Member and a Certification Team Manager, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance is needed and/or where we might target for strategic enforcement.
+
 
 ## 3.0 SCOPE
 
