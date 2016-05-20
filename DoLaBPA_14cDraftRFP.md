@@ -1,4 +1,4 @@
-# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor 
+# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor
 # Wage and Hour Division
 # Section 14(c) Tool
 
@@ -6,7 +6,7 @@
 
 ## 1.0 BACKGROUND
 
-The Department of Labor (DoL) Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options. 
+The Department of Labor (DoL) Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options.
 
 ## 2.0 OBJECTIVES
 
@@ -14,7 +14,7 @@ The 14(c) process will become a modern, digital-first service. Applicants will b
 
 These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs.
 
-#### Applicants: 
+#### Applicants:
 - As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. AC: Data will end up in a database. AC: The applicant must be logged in.
 - As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that the time it takes to complete the application is reduced.
 - As an Applicant, I want current links to compliance assistance materials (resources, suggestions, worksheets, data, etc.), so that I can complete the application correctly.
@@ -23,7 +23,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As an Applicant, I want certain form fields to be pre-populated with previously used information when I begin a renewal application so that it takes less time to complete the application.
 - As an Applicant, I want to receive receipt confirmation and status updates via email notifications, so that I know where my application is in the process.
 - As an Applicant I want to be able to upload required documents (time studies) so that I submit a complete application.
- 
+
 #### Certifying Parties:
 - As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
 - As a Certification Team Manager and a Policy Team Member, I want access to all submitted application data, so that I can continuously evaluate and improve current policy and procedures. AC: Data should be sort-able, searchable and able to produce reports. AC: It should take no longer than 1 minute to pull reports.
@@ -48,7 +48,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance is needed and/or where we might target for strategic enforcement.
 - As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data so that I can effectively perform the investigation.
 - As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
- 
+
 #### Parent:
 - As a Parent, I want to know if my child's employer holds a certificate so that I know the employer has the right to pay less than the minimum wage.
 
@@ -72,17 +72,19 @@ requirement:
 
 The Contractor shall provide the following services:
 
-- Vendor (developer) shall to select a technology stack that that stated needs can be accomplished and deployed within the DOL network. Technology Stack options within DOL that are already approved are listed below:
- - LAMP (Linux, Apache, MySql, PHP)
+- Vendor (developer) shall to select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology Stack options within DOL that are already approved are listed below:
+ - Linux
+ - Apache
+ - MySQL
+ - PHP
  - JBoss
  - Ruby on Rails
  - Python
  - ColdFusion on Windows
-- All PII data shall be encrypted in the database so that it is secure.
+- All Personally Identifiable Information (PII) data shall be encrypted in the database so that it is secure.
 - All users shall be authenticated and authorized so that only authorized users have access.
 - To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
-- Personally Identifiable Information (PII) shall be secure and kept from exposure to unauthorized users.
-- As a WHD and public user, I want some information to have limited access to protect my personal information. (redundant?)
+- PII shall be secure and kept from exposure to unauthorized users.
 - As a WHD user I want the 14(c) system that adapts quickly to changing policies and procedures so that I am not dependent on expensive and long term IT improvements. (aspirational recommend deleting or moving to a different section like background)
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
 - System must receive Authority to Operate (not on the vendor?)
@@ -271,17 +273,15 @@ be provided to the Contractor.
 
 The Contractor shall provide qualified personnel commensurate with this task's performance work statement, in terms of necessary skills at the requisite level of knowledge and experience.
 
-Contractor personnel shall have:
-
-A strong technical background in the following:
+Contractor personnel shall have a strong technical background in the following:
 
 - Technology stack as delineated in Section 4.1.
 
--   Using one or more front-end JavaScript frameworks to build a
+-   Using a front-end JavaScript framework to build the
     front-end of a website.
 
--   Incorporating data from a publically hosted JSON or CSV flat file
-    into a website front-end via a client-side request.
+-   Incorporating data in JSON or CSV format from a publicly-available API
+    into a website via a client-side request.
 
 -   Ability to utilize existing design and user experience assets from
     US Web Design Standards.
@@ -306,7 +306,7 @@ b)  If any individual proposed as Key Personnel becomes unavailable
     person with résumé. Any Key Personnel proposed who are not currently
     employed by the Contractor shall be identified as such and an additional letters of intent
     signed by the proposed Key Personnel shall be provided that indicates that person's intent
-    to be employed by the Contractor if awardeded this task order.
+    to be employed by the Contractor if awarded this task order.
 
 c)  The Contractor agrees that during the duration of the task order
     performance, no Key Personnel substitutions shall be made unless
