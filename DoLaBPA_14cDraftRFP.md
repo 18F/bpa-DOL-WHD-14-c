@@ -87,7 +87,7 @@ The Contractor shall provide the following services:
 - PII shall be secure and kept from exposure to unauthorized users.
 - As a WHD user I want the 14(c) system that adapts quickly to changing policies and procedures so that I am not dependent on expensive and long term IT improvements. (aspirational recommend deleting or moving to a different section like background)
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
-- System must receive Authority to Operate (not on the vendor?)
+- Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate
 - Must interface with DB2
 
 
@@ -292,9 +292,6 @@ Contractor personnel shall have a strong technical background in the following:
 
 #### 5.7.2 Key Personnel
 
-- *Insert Key Personnel Necessary for this Task*
-(draw from https://pages.18f.gov/agile-labor-categories/)
-
 To ensure successful performance of this task, Contractor shall satisfy the following requirements:
 
 a)  The Contractor shall assign personnel whose résumés are submitted with its quotation and who are
@@ -471,7 +468,7 @@ information:
 ### 6.5 Post Award Orientation Conference
 
 The Government's team, Contracting Officer, and COR shall hold a Kick-Off
-Meeting/Post-Award Conference. Ideally, this will physically located in Washington, DC, but may be done virtually with
+Meeting/Post-Award Conference. Ideally, this will be physically located in Washington, DC, but may be done virtually with
 Contractor’s team and other relevant Government staff to review and
 clarify the project’s objectives, expectations from the Government,
 and address any questions the Contractor may have. Discussion topics
@@ -611,24 +608,16 @@ system.
 
 The following Points of Contact (POC) are applicable to this order:
 
-**Contracting Officer Representative (COR)**: Rebecca Refoy-Sidibe GSA, Office of
+**Contracting Officer Representative and 18F Product Manager(COR)**: Rebecca Refoy-Sidibe GSA, Office of
 Citizen Services and Innovative Technologies (OCSIT) - 18F
 <rebecca.refoy-sidibe@gsa.gov> (202) 809-4519
 
-**Alternative Contracting Officer Representative (ACOR)**: TBD
-GSA, Office of Citizen Services and Innovative Technologies (OCSIT) -
-18F <email@gsa.gov> (000) 000-0000
-
-**18F Product Manager**: Rebecca Refoy-Sidibe GSA, Office of Citizen Services and
-Innovative Technologies (OCSIT) - 18F <rebecca.refoy-sidibe@gsa.gov> (202) 809-4519
-
 **Client Product Owner**: *[To Be Determined]*
 
-**GSA Procurement Project Manager**: Kit Lee GSA, Assisted Acquisition
-Services (AAS) <kit.lee@gsa.gov> (415) 436-8730
+**GSA Procurement Project Manager**: Name TBD, Assisted Acquisition
+Services (AAS) <email@gsa.gov> (000) 000-0000
 
-**GSA Contracting Officer**: Lynda Luo GSA, Acquisition Operations
-Division <lynda.luo@gsa.gov> (415) 522-4633
+**GSA Contracting Officer**: Name TBD, Acquisition <email@gsa.gov> (000) 000-0000
 
 ## 7.0 INVOICING/ PROCEDURES FOR PAYMENT
 
