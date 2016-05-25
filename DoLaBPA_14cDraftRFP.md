@@ -72,7 +72,7 @@ requirement:
 
 The Contractor shall provide the following services:
 
-- Vendor (developer) shall to select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology Stack options within DOL that are already approved are listed below:
+- Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options within DOL that are already approved are listed below:
  - Linux
  - Apache
  - MySQL
@@ -85,7 +85,6 @@ The Contractor shall provide the following services:
 - All users shall be authenticated and authorized so that only authorized users have access.
 - To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
 - PII shall be secure and kept from exposure to unauthorized users.
-- As a WHD user I want the 14(c) system that adapts quickly to changing policies and procedures so that I am not dependent on expensive and long term IT improvements. (aspirational recommend deleting or moving to a different section like background)
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate
 - Must interface with DB2
@@ -145,13 +144,13 @@ impact.
 
 ### 5.3 Status Reports
 
-In lieu of a typical status report, Contractor's progress shall be documented for each sprint's period of performance as follows: :
+In lieu of a typical status report, Contractor's progress shall be documented for each sprint's period of performance as follows:
 
 -   Links to the Github branch
 
 -   Screenshots of any available visualization (as appropriate)
 
--   Screenshot, links, or other documentation from the contractor’s
+-   Screenshots, links, or other documentation from the contractor’s
     project management system reflecting completed features, including
     number and percentage of completed sprint tasks (e.g. percentage of
     tasks completed)
