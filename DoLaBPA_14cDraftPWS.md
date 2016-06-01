@@ -334,7 +334,7 @@ f)  At a minimum, a Project Manager and a Technical Lead must be
     identified and designated as Key Personnel.
 
 **The Project Manager** will be a direct liaison to the COR, 18F’s Project
-    Manager, and the FedRAMP Product Owner. The Project Manager is
+    Manager, and the Section 14(c) Tool Product Owner. The Project Manager is
     responsible for the supervision and management of the Contractor’s
     personnel, technical assistance, and interface. Desired
     skills and experience for the Project Manager include:
