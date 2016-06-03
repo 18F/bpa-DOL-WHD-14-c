@@ -30,22 +30,22 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
 - As a Certification Team Member, I need a system that allows me to easily navigate within it (logical tabbing, multiple screen use, etc.) so that I can work in a more efficient manner.
 - As a Certification Team Member and a Certification Team Manager, I want to be able to document issues/potential violations in an internal diary sheet (saved in historical record) so that systemic problems can be identified and analyzed.
-- As a Certification Team Manager and a a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
-- As a Certification Team Manager and a Policy Team Member I want to be able to access diary sheets so that I can review potential systemic violations.
-- As a Certification Team Manager, I want the system to assign applications based on set criteria, so that the process is more streamlined.
+- As a Certification Team Manager and a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
+- As a Certification Team Manager and a Policy Team Member I want to be able to access and search all diary sheets so that I can review potential systemic violations.
+- As a Certification Team Manager, I want the system to assign applications to a certification team member based on set criteria, so that the application review process is more streamlined.
 - As a Certification Team Manager I want to be able to assign/reassign work so that the workload is balanced.
 - As a Certification Team Manager, Policy Team Member, Certification Team Member, and Non-WHD Interested Party, I want to be able to get descriptive data about the inventory of active and pending certificates so that I understand the current 14(c) universe.
-- As a Certification Team Manager and a Policy Team Member, I need a system that has user friendly reporting functions so that I can provide information upon request (FOIA, etc).
+- As a Certification Team Manager and a Policy Team Member, I need a system that has user-friendly reporting functions so that I can provide information upon request (FOIA, etc.).
 - As a Certification Team Manager and a Policy Team Member, I want to track inventory so that I can provide reports/status updates to interested WHD parties.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14(c) history.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I would like to be able to access the applicant's enforcement history from WHISARD within the system, so that the data can be used to inform the certification decision and so that staff spends less time researching and entering information.
 - As a Certification Team Member and a Certification Team Manager, I want the system to communicate with CPS and WHISARD to perform a validity check on the EIN number provided by the employer on the submitted application.
-- As a Certification Team Manager, a Certification Team Member and a a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that "bad actors" are not issued certificates.
+- As a Certification Team Manager, a Certification Team Member and a a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that additional review may be conducted and appropriate certificate action taken.
 - As a Certification Team Member, I need a system that allows me to create reports of my workload, organize calendar events and report time spent on activities (WH-40), so that I can manage my work.
 - As a Certification Team Manager I want the system to track specialist time and transfer information to the WH-40 so that time is appropriately charged against a case.
 - As a Certification Team Manager, I want productivity data (number of applications processed, length of time from receipt to decision, etc.) of each specialist so that I can evaluate performance, restructure processes and make other improvements.
 - As a Policy Team member, Certification Team Manager and Applicant, I want the system to provide the online calculators as an option, so that standard and accurate information is submitted.
-- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance is needed and/or where we might target for strategic enforcement.
+- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance or modification to the process is needed and to inform enforcement. 
 - As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data so that I can effectively perform the investigation.
 - As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
 
