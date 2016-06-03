@@ -438,11 +438,9 @@ on Government work days.
 #### 6.4.1 Section 508 Compliance Requirement
 
 The contractor shall support the Government in its conformance with
-Section 508 throughout the development and implementation of the work
-to be performed.
+Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d) (Section 508) throughout the development and implementation of the work to be performed.
 
-Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C.
-794d) requires that when Federal agencies develop, procure, maintain,
+Section 508 requires that when Federal agencies develop, procure, maintain,
 or use electronic information technology, Federal employees with
 disabilities have access to and use of information and data that is
 comparable to the access and use by Federal employees who do not have
@@ -459,7 +457,7 @@ The following standard is applicable for compliance:
 
 The contractor should review the following websites for additional 508
 information:
-[http://www.section508.gov/index.cfm?FuseAction=Content&ID=12](http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=12)
+[http://www.section508.gov/](http://www.section508.gov)
 <http://www.access-board.gov/508.htm>
 
 <http://www.w3.org/WAI/Resources>
@@ -487,7 +485,7 @@ This task order is not being used to procure personal services
 prohibited by FAR 37.104, Personal services contract.
 
 To counter the circumstances that infer personal services and to
-preserve the non- personal nature of the contract, the contractor shall
+preserve the non-personal nature of the contract, the contractor shall
 adhere to the following guidelines in the performance of the task:
 
 -   Contractor provides for direct supervision of all contract employees
@@ -703,6 +701,6 @@ been paid the Contractor shall furnish a completed and signed Release
 of Claims (GSA Form 1142) to the Contracting Officer. This release of
 claims is due within 15 calendar days of final payment.
 
-Upon successful performance, the Contractor and Goverment may engage in celebratory dance.
+Upon successful performance, the Contractor and Government may engage in celebratory dance.
 
 ### Attachment: QASP
