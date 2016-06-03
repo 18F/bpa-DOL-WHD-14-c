@@ -85,7 +85,7 @@ The Contractor shall provide the following services:
 - All users shall be authenticated and authorized so that only authorized users have access.
 - To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
 - PII shall be secure and kept from exposure to unauthorized users.
-- CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
+- CPS database shall be expanded to capture all information so that WHD will get all fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate
 - Must interface with DB2
 
@@ -107,6 +107,8 @@ The Contractor shall provide the following services:
     Agreement (aBPA), work will be conducted in two-week sprints and
     reviewed at the end of each sprint for acceptability before
     moving on.
+
+-   Integrated testing should be conducted in a staged enviroment at DOL.
 
 ### Note the following tasks are not required:
 
