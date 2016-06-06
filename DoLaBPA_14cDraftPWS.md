@@ -332,7 +332,7 @@ f)  The Contracting Officer, or duly designated COR, will evaluate the request(s
     other equitable adjustment.
 
 **The Project Manager** will be a direct liaison to the COR, 18F’s Project
-    Manager, and the FedRAMP Product Owner. The Project Manager is
+    Manager, and the Section 14(c) Tool Product Owner. The Project Manager is
     responsible for the supervision and management of the Contractor’s
     personnel, technical assistance, and interface. Desired
     skills and experience for the Project Manager include:
