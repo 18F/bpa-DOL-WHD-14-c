@@ -135,18 +135,16 @@ Responsibilities.
 
 ### 5.2 Impact Reports
 
-The Contractor shall be responsible for providing timely notification to the
+The Contractor shall be responsible for providing written timely notification (within 24 hours of any anticipated or known impact) to the 
 COR, 18F Product Manager, and Product Owner when activities or issues
 outside of the Contractor’s control may directly impact the
-Contractor’s performance. This notification shall be provided in
-writing or via email within 24 hours of any anticipated or known
-impact.
+Contractor’s performance. 
 
 ### 5.3 Status Reports
 
 In lieu of a typical status report, Contractor's progress shall be documented for each sprint's period of performance as follows:
 
--   Links to the Github branch
+-   Links to the GitHub branch
 
 -   Screenshots of any available visualization (as appropriate)
 
@@ -222,7 +220,7 @@ the COR within two weeks of the COR’s request.
 
 #### 5.6.1 Delivery Instructions
 
-Code deliverables shall be submitted via the Github repository. A copy
+Code deliverables shall be submitted via the GitHub repository. A copy
 of any document deliverables shall be submitted to the COR, Product
 Owner, and 18F Product Manager, and uploaded to the AASBS (Assisted
 Acquisition Services Business System) web portal. Refer to Section
@@ -291,12 +289,15 @@ Contractor personnel shall have a strong technical background in the following:
 
 #### 5.7.2 Key Personnel
 
-To ensure successful performance of this task, Contractor shall satisfy the following requirements:
+To ensure successful performance of this task, Contractor shall satisfy the following minimum requirements:
 
-a)  The Contractor shall assign personnel whose résumés are submitted with its quotation and who are
+a)  At a minimum, a Project Manager and a Technical Lead must be
+    identified and designated as Key Personnel.  
+
+b)  The Contractor shall assign personnel whose résumés are submitted with its quotation and who are
     identified in the Contractor’s quotation as Key Personnel to perform this task order.
 
-b)  If any individual proposed as Key Personnel becomes unavailable
+c)  If any individual proposed as Key Personnel becomes unavailable
     during the course of the solicitation and evaluation process, the Contractor shall
     notify the Contracting Officer immediately and provide a substitute
     person with résumé. Any Key Personnel proposed who are not currently
@@ -304,7 +305,7 @@ b)  If any individual proposed as Key Personnel becomes unavailable
     signed by the proposed Key Personnel shall be provided that indicates that person's intent
     to be employed by the Contractor if awarded this task order.
 
-c)  The Contractor agrees that during the duration of the task order
+d)  The Contractor agrees that during the duration of the task order
     performance, no Key Personnel substitutions shall be made unless
     necessitated by an individual’s sudden illness, death, or
     termination of employment for cause. In any of such event, the Contractor
@@ -313,7 +314,7 @@ c)  The Contractor agrees that during the duration of the task order
     Government approval. No substitutions of Key Personnel shall be made
     except in accordance with this provision.
 
-d)  All requests for substitutions/additions of Key Personnel must
+e)  All requests for substitutions/additions of Key Personnel must
     include a detailed explanation of the circumstances necessitating
     the proposed substitution or addition, a complete résumé for the
     proposed substitute or addition including skills, experience,
@@ -322,16 +323,13 @@ d)  All requests for substitutions/additions of Key Personnel must
     qualifications that meet or exceed the qualifications of the person
     to be replaced.
 
-e)  The Contracting Officer, or duly designated COR, will evaluate the request(s)
+f)  The Contracting Officer, or duly designated COR, will evaluate the request(s)
     for substitutions/additions of Key Personnel and the Contracting
     Officer will notify the Contractor, in writing, of approval
     or disapproval. Disapproval of the proposed individual(s) shall not
     provide grounds for non-performance by the Contractor or form the
     basis of any claim for monies, delivery schedule extension, or any
     other equitable adjustment.
-
-f)  At a minimum, a Project Manager and a Technical Lead must be
-    identified and designated as Key Personnel.
 
 **The Project Manager** will be a direct liaison to the COR, 18F’s Project
     Manager, and the FedRAMP Product Owner. The Project Manager is
@@ -362,7 +360,7 @@ The **Technical Lead** must have a full understanding of the technical
 The Government estimates this project will require no more than 4-5
 personnel --- though not all will be needed on a full time basis.
 Contractors are encouraged to use their own estimating methodology to
-determine the skill mix and level of effort necessary to successfull perform this task order.
+determine the skill mix and level of effort necessary to successfully perform this task order.
 
 ### 5.8 Travel
 
