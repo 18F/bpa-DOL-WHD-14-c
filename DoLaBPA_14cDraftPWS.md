@@ -1,4 +1,4 @@
-# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor
+# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor,
 # Wage and Hour Division
 # Section 14(c) Tool
 
@@ -6,7 +6,7 @@
 
 ## 1.0 BACKGROUND
 
-The Department of Labor (DoL) Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options.
+The Department of Labor (DoL), Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options.
 
 ## 2.0 OBJECTIVES
 
