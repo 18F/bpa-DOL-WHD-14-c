@@ -16,13 +16,13 @@ These user needs shall be met in order to fulfill the objectives for performance
 
 #### Applicants:
 - As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. AC: Data will end up in a database. AC: The applicant must be logged in.
-- As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that the time it takes to complete the application is reduced.
+- As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that I am not confused about what sections to complete and the time it takes to complete the application is reduced.
 - As an Applicant, I want current links to compliance assistance materials (resources, suggestions, worksheets, data, etc.), so that I can complete the application correctly.
 - As an Applicant, I want the ability to log-in, so that the system knows who I am and my information is secure.
 - As an Applicant, I want the ability to save and retrieve my application in progress so I can work on the form in more than one session.
 - As an Applicant, I want certain form fields to be pre-populated with previously used information when I begin a renewal application so that it takes less time to complete the application.
 - As an Applicant, I want to receive receipt confirmation and status updates via email notifications, so that I know where my application is in the process.
-- As an Applicant I want to be able to upload required documents (time studies) so that I submit a complete application.
+- As an Applicant I want to be able to upload required documents (time studies) so that I can submit a complete application.
 
 #### Certifying Parties:
 - As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
