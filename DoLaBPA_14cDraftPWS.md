@@ -45,7 +45,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Manager I want the system to track specialist time and transfer information to the WH-40 so that time is appropriately charged against a case.
 - As a Certification Team Manager, I want productivity data (number of applications processed, length of time from receipt to decision, etc.) of each specialist so that I can evaluate performance, restructure processes and make other improvements.
 - As a Policy Team member, Certification Team Manager and Applicant, I want the system to provide the online calculators as an option, so that standard and accurate information is submitted.
-- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance or modification to the process is needed and to inform enforcement. 
+- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance or modification to the process is needed and to inform enforcement.
 - As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data and internal diary records so that I can effectively perform the investigation.
 - As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
 
@@ -72,22 +72,16 @@ requirement:
 
 The Contractor shall provide the following services:
 
-- Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options within DOL that are already approved are listed below:
- - Linux
- - Apache
- - MySQL
- - PHP
- - JBoss
+- Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options that are already approved within DOL are listed below in declining order of preference:
  - Ruby on Rails
- - Python
- - ColdFusion on Windows
+ - .NET or PHP
 - All Personally Identifiable Information (PII) data shall be encrypted in the database so that it is secure.
 - All users shall be authenticated and authorized so that only authorized users have access.
 - To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
 - PII shall be secure and kept from exposure to unauthorized users.
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
-- Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate
-- Must interface with DB2
+- Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
+- Must interface with DB2 and allow create, retrieve, update, and delete as appropriate for the user's permissions.
 
 
 ### Additional requirements:
@@ -135,10 +129,10 @@ Responsibilities.
 
 ### 5.2 Impact Reports
 
-The Contractor shall be responsible for providing written timely notification (within 24 hours of any anticipated or known impact) to the 
+The Contractor shall be responsible for providing written timely notification (within 24 hours of any anticipated or known impact) to the
 COR, 18F Product Manager, and Product Owner when activities or issues
 outside of the Contractor’s control may directly impact the
-Contractor’s performance. 
+Contractor’s performance.
 
 ### 5.3 Status Reports
 
