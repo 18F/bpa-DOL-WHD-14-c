@@ -79,7 +79,7 @@ The Contractor shall provide the following services:
 - PII shall be secure and kept from exposure to unauthorized users from uploaded documents.
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
-- Must interface with DB2 and allow create, retrieve, update, and delete as appropriate for the user's permissions.
+- Must interface with PostgreSQL and allow create, retrieve, update, and delete as appropriate for the user's permissions. Must allow for migration to DB2.
 
 
 ### Additional requirements:
