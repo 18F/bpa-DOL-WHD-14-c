@@ -15,6 +15,7 @@ The 14(c) process will become a modern, digital-first service. Applicants will b
 These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs.
 
 #### Applicants:
+- As an Employer, I would like to have my existing certifications associated with my account so that I can view them or renew them.
 - As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. AC: Data will end up in a database. AC: The applicant must be logged in.
 - As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that I am not confused about what sections to complete and the time it takes to complete the application is reduced.
 - As an Applicant, I want current links to compliance assistance materials (resources, suggestions, worksheets, data, etc.), so that I can complete the application correctly.
@@ -80,6 +81,7 @@ The Contractor shall provide the following services:
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
 - Must interface with PostgreSQL and allow create, retrieve, update, and delete as appropriate for the user's permissions. Must allow for migration to DB2.
+- Provide an import function for existing data in CSV or similar format.
 
 
 ### Additional requirements:
