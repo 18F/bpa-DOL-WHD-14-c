@@ -77,7 +77,7 @@ The Contractor shall provide the following services:
  - .NET or PHP
 - All users shall be authenticated and authorized so that only authorized users have access.
 - PII shall be secure and kept from exposure to unauthorized users from uploaded documents.
-- CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
+- CPS database shall be expanded to capture all information so that WHD will get all fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
 - Must interface with DB2 and allow create, retrieve, update, and delete as appropriate for the user's permissions.
 
@@ -99,6 +99,9 @@ The Contractor shall provide the following services:
     Agreement (aBPA), work will be conducted in two-week sprints and
     reviewed at the end of each sprint for acceptability before
     moving on.
+
+-   Integration testing for quality assurance purposes should be conducted
+    in a staged environment at DOL.
 
 ### Note the following tasks are not required:
 
