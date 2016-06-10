@@ -6,7 +6,7 @@
 
 ## 1.0 BACKGROUND
 
-The Department of Labor (DoL), Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options.
+The Department of Labor (DOL), Wage and Hour Division (WHD) will further improve the accomplishment of its mission by refining internal and external standards to unify policy, certification, enforcement and certificate holder operations under Section 14(c) of the Fair Labor Standards Act of 1938 (Section 14(c)). WHD will issue and enforce Section 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of their Section 14(c) rights, as well as competitive integrated employment options.
 
 ## 2.0 OBJECTIVES
 
