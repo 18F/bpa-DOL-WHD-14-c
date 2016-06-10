@@ -10,7 +10,7 @@ The Department of Labor (DoL), Wage and Hour Division (WHD) will further improve
 
 ## 2.0 OBJECTIVES
 
-The 14(c) process will become a modern, digital-first service. Applicants will be provided an intuitive online experience, guiding them through the information needed to complete their application correctly. Applicants will have the ability to save their progress along the way, submit it to the system and see their application status. The application data will be made available to WHD users to inform certification and enforcement decisions. The product will support policy and process evolution over time, and will support data transparency wherever and however possible.
+The 14(c) process will become a modern, digital-first service. Applicants will be provided an intuitive online experience, guiding them through the information needed to complete their application correctly. Applicants will have the ability to save their progress along the way, submit it to the system and see their application status. The application data will be made available to WHD users to inform certification and enforcement decisions. Applicants will have access to previous applications in order to apply for renewal. The product will support policy and process evolution over time, and will support data transparency wherever and however possible.
 
 These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs.
 
