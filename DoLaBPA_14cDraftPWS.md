@@ -100,7 +100,8 @@ The Contractor shall provide the following services:
     reviewed at the end of each sprint for acceptability before
     moving on.
 
--   Integrated testing should be conducted in a staged enviroment at DOL.
+-   Integration testing for quality assurance purposes should be conducted
+    in a staged environment at DOL.
 
 ### Note the following tasks are not required:
 
