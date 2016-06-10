@@ -75,10 +75,8 @@ The Contractor shall provide the following services:
 - Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options that are already approved within DOL are listed below in declining order of preference:
  - Ruby on Rails
  - .NET or PHP
-- All Personally Identifiable Information (PII) data shall be encrypted in the database so that it is secure.
 - All users shall be authenticated and authorized so that only authorized users have access.
-- To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
-- PII shall be secure and kept from exposure to unauthorized users.
+- PII shall be secure and kept from exposure to unauthorized users from uploaded documents.
 - CPS database shall be expanded to capture all information so that WHD will get all necessary fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
 - Must interface with DB2 and allow create, retrieve, update, and delete as appropriate for the user's permissions.
@@ -417,7 +415,7 @@ calendar days after the Post Award Conference.
 
 The primary place of performance will be at the contractor’s facility.
 Work may be performed at GSA Headquarters at 1800 F St. NW, Washington,
-DC, and Alternate Sites. 18F is a distributed team.
+DC, or two DOL locations: Frances Perkins Building 200 Constitution Ave NW, Washington, DC 20210 or Patriot Plaza 375 E St SW, Washington, DC 20024 and other Alternate Sites. 18F is a distributed team.
 
 Business core hours shall be 0900 to 1800 local time, Monday – Friday on
 Government scheduled work days. The contractor may set its own work
@@ -597,11 +595,11 @@ system.
 
 The following Points of Contact (POC) are applicable to this order:
 
-**Contracting Officer Representative and 18F Product Manager(COR)**: Rebecca Refoy-Sidibe GSA, Office of
+**Contracting Officer Representative (COR) and 18F Product Manager**: Rebecca Refoy-Sidibe GSA, Office of
 Citizen Services and Innovative Technologies (OCSIT) - 18F
 <rebecca.refoy-sidibe@gsa.gov> (202) 809-4519
 
-**Client Product Owner**: *[To Be Determined]*
+**Client Product Owner**: ** Elizabeth Striegel,  <Striegel.Elizabeth@dol.gov> (000) 000-0000
 
 **GSA Procurement Project Manager**: Name TBD, Assisted Acquisition
 Services (AAS) <email@gsa.gov> (000) 000-0000
