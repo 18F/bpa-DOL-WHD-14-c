@@ -1,4 +1,4 @@
-# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor
+# PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor,
 # Wage and Hour Division
 # Section 14(c) Tool
 
@@ -6,7 +6,7 @@
 
 ## 1.0 BACKGROUND
 
-The Department of Labor (DoL) Wage and Hour Division (WHD) will further improve the accomplishment of its mission by establishing a consistent set of internal and external standards that unifies Section 14(c) policy, certification, enforcement and certificate holder operations. WHD will issue and enforce 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of 14(c) rights and competitive integrated employment options.
+The Department of Labor (DOL), Wage and Hour Division (WHD) will further improve the accomplishment of its mission by refining internal and external standards to unify policy, certification, enforcement and certificate holder operations under Section 14(c) of the Fair Labor Standards Act of 1938 (Section 14(c)). WHD will issue and enforce Section 14(c) certificates to ensure they are only held by employers who comply with all program standards and will work to ensure individuals are knowledgeable of their Section 14(c) rights, as well as competitive integrated employment options.
 
 ## 2.0 OBJECTIVES
 
@@ -16,13 +16,13 @@ These user needs shall be met in order to fulfill the objectives for performance
 
 #### Applicants:
 - As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. AC: Data will end up in a database. AC: The applicant must be logged in.
-- As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that the time it takes to complete the application is reduced.
+- As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that I am not confused about what sections to complete and the time it takes to complete the application is reduced.
 - As an Applicant, I want current links to compliance assistance materials (resources, suggestions, worksheets, data, etc.), so that I can complete the application correctly.
 - As an Applicant, I want the ability to log-in, so that the system knows who I am and my information is secure.
 - As an Applicant, I want the ability to save and retrieve my application in progress so I can work on the form in more than one session.
 - As an Applicant, I want certain form fields to be pre-populated with previously used information when I begin a renewal application so that it takes less time to complete the application.
 - As an Applicant, I want to receive receipt confirmation and status updates via email notifications, so that I know where my application is in the process.
-- As an Applicant I want to be able to upload required documents (time studies) so that I submit a complete application.
+- As an Applicant I want to be able to upload required documents (time studies) so that I can submit a complete application.
 
 #### Certifying Parties:
 - As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
@@ -30,23 +30,23 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
 - As a Certification Team Member, I need a system that allows me to easily navigate within it (logical tabbing, multiple screen use, etc.) so that I can work in a more efficient manner.
 - As a Certification Team Member and a Certification Team Manager, I want to be able to document issues/potential violations in an internal diary sheet (saved in historical record) so that systemic problems can be identified and analyzed.
-- As a Certification Team Manager and a a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
-- As a Certification Team Manager and a Policy Team Member I want to be able to access diary sheets so that I can review potential systemic violations.
-- As a Certification Team Manager, I want the system to assign applications based on set criteria, so that the process is more streamlined.
+- As a Certification Team Manager and a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
+- As a Certification Team Manager and a Policy Team Member I want to be able to access and search all diary sheets so that I can review potential systemic violations.
+- As a Certification Team Manager, I want the system to assign applications to a certification team member based on set criteria, so that the application review process is more streamlined.
 - As a Certification Team Manager I want to be able to assign/reassign work so that the workload is balanced.
 - As a Certification Team Manager, Policy Team Member, Certification Team Member, and Non-WHD Interested Party, I want to be able to get descriptive data about the inventory of active and pending certificates so that I understand the current 14(c) universe.
-- As a Certification Team Manager and a Policy Team Member, I need a system that has user friendly reporting functions so that I can provide information upon request (FOIA, etc).
+- As a Certification Team Manager and a Policy Team Member, I need a system that has user-friendly reporting functions so that I can provide information upon request (FOIA, etc.).
 - As a Certification Team Manager and a Policy Team Member, I want to track inventory so that I can provide reports/status updates to interested WHD parties.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14(c) history.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I would like to be able to access the applicant's enforcement history from WHISARD within the system, so that the data can be used to inform the certification decision and so that staff spends less time researching and entering information.
 - As a Certification Team Member and a Certification Team Manager, I want the system to communicate with CPS and WHISARD to perform a validity check on the EIN number provided by the employer on the submitted application.
-- As a Certification Team Manager, a Certification Team Member and a a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that "bad actors" are not issued certificates.
+- As a Certification Team Manager, a Certification Team Member and a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that additional review may be conducted and appropriate certificate action taken.
 - As a Certification Team Member, I need a system that allows me to create reports of my workload, organize calendar events and report time spent on activities (WH-40), so that I can manage my work.
 - As a Certification Team Manager I want the system to track specialist time and transfer information to the WH-40 so that time is appropriately charged against a case.
 - As a Certification Team Manager, I want productivity data (number of applications processed, length of time from receipt to decision, etc.) of each specialist so that I can evaluate performance, restructure processes and make other improvements.
 - As a Policy Team member, Certification Team Manager and Applicant, I want the system to provide the online calculators as an option, so that standard and accurate information is submitted.
-- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance is needed and/or where we might target for strategic enforcement.
-- As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data so that I can effectively perform the investigation.
+- As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance or modification to the process is needed and to inform enforcement.
+- As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data and internal diary records so that I can effectively perform the investigation.
 - As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
 
 #### Parent:
@@ -72,22 +72,14 @@ requirement:
 
 The Contractor shall provide the following services:
 
-- Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options within DOL that are already approved are listed below:
- - Linux
- - Apache
- - MySQL
- - PHP
- - JBoss
+- Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options that are already approved within DOL are listed below in declining order of preference:
  - Ruby on Rails
- - Python
- - ColdFusion on Windows
-- All Personally Identifiable Information (PII) data shall be encrypted in the database so that it is secure.
+ - .NET or PHP
 - All users shall be authenticated and authorized so that only authorized users have access.
-- To ensure that full social security numbers (SSN) are not reviewable, part of the (SSN) on the certificate shall be masked.
-- PII shall be secure and kept from exposure to unauthorized users.
+- PII shall be secure and kept from exposure to unauthorized users from uploaded documents.
 - CPS database shall be expanded to capture all information so that WHD will get all fields.
-- Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate
-- Must interface with DB2
+- Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
+- Must interface with DB2 and allow create, retrieve, update, and delete as appropriate for the user's permissions.
 
 
 ### Additional requirements:
@@ -137,18 +129,16 @@ Responsibilities.
 
 ### 5.2 Impact Reports
 
-The Contractor shall be responsible for providing timely notification to the
+The Contractor shall be responsible for providing written timely notification (within 24 hours of any anticipated or known impact) to the
 COR, 18F Product Manager, and Product Owner when activities or issues
 outside of the Contractor’s control may directly impact the
-Contractor’s performance. This notification shall be provided in
-writing or via email within 24 hours of any anticipated or known
-impact.
+Contractor’s performance.
 
 ### 5.3 Status Reports
 
 In lieu of a typical status report, Contractor's progress shall be documented for each sprint's period of performance as follows:
 
--   Links to the Github branch
+-   Links to the GitHub branch
 
 -   Screenshots of any available visualization (as appropriate)
 
@@ -224,7 +214,7 @@ the COR within two weeks of the COR’s request.
 
 #### 5.6.1 Delivery Instructions
 
-Code deliverables shall be submitted via the Github repository. A copy
+Code deliverables shall be submitted via the GitHub repository. A copy
 of any document deliverables shall be submitted to the COR, Product
 Owner, and 18F Product Manager, and uploaded to the AASBS (Assisted
 Acquisition Services Business System) web portal. Refer to Section
@@ -293,12 +283,15 @@ Contractor personnel shall have a strong technical background in the following:
 
 #### 5.7.2 Key Personnel
 
-To ensure successful performance of this task, Contractor shall satisfy the following requirements:
+To ensure successful performance of this task, Contractor shall satisfy the following minimum requirements:
 
-a)  The Contractor shall assign personnel whose résumés are submitted with its quotation and who are
+a)  At a minimum, a Project Manager and a Technical Lead must be
+    identified and designated as Key Personnel.  
+
+b)  The Contractor shall assign personnel whose résumés are submitted with its quotation and who are
     identified in the Contractor’s quotation as Key Personnel to perform this task order.
 
-b)  If any individual proposed as Key Personnel becomes unavailable
+c)  If any individual proposed as Key Personnel becomes unavailable
     during the course of the solicitation and evaluation process, the Contractor shall
     notify the Contracting Officer immediately and provide a substitute
     person with résumé. Any Key Personnel proposed who are not currently
@@ -306,7 +299,7 @@ b)  If any individual proposed as Key Personnel becomes unavailable
     signed by the proposed Key Personnel shall be provided that indicates that person's intent
     to be employed by the Contractor if awarded this task order.
 
-c)  The Contractor agrees that during the duration of the task order
+d)  The Contractor agrees that during the duration of the task order
     performance, no Key Personnel substitutions shall be made unless
     necessitated by an individual’s sudden illness, death, or
     termination of employment for cause. In any of such event, the Contractor
@@ -315,7 +308,7 @@ c)  The Contractor agrees that during the duration of the task order
     Government approval. No substitutions of Key Personnel shall be made
     except in accordance with this provision.
 
-d)  All requests for substitutions/additions of Key Personnel must
+e)  All requests for substitutions/additions of Key Personnel must
     include a detailed explanation of the circumstances necessitating
     the proposed substitution or addition, a complete résumé for the
     proposed substitute or addition including skills, experience,
@@ -324,7 +317,7 @@ d)  All requests for substitutions/additions of Key Personnel must
     qualifications that meet or exceed the qualifications of the person
     to be replaced.
 
-e)  The Contracting Officer, or duly designated COR, will evaluate the request(s)
+f)  The Contracting Officer, or duly designated COR, will evaluate the request(s)
     for substitutions/additions of Key Personnel and the Contracting
     Officer will notify the Contractor, in writing, of approval
     or disapproval. Disapproval of the proposed individual(s) shall not
@@ -332,11 +325,8 @@ e)  The Contracting Officer, or duly designated COR, will evaluate the request(s
     basis of any claim for monies, delivery schedule extension, or any
     other equitable adjustment.
 
-f)  At a minimum, a Project Manager and a Technical Lead must be
-    identified and designated as Key Personnel.
-
 **The Project Manager** will be a direct liaison to the COR, 18F’s Project
-    Manager, and the FedRAMP Product Owner. The Project Manager is
+    Manager, and the Section 14(c) Tool Product Owner. The Project Manager is
     responsible for the supervision and management of the Contractor’s
     personnel, technical assistance, and interface. Desired
     skills and experience for the Project Manager include:
@@ -364,7 +354,7 @@ The **Technical Lead** must have a full understanding of the technical
 The Government estimates this project will require no more than 4-5
 personnel --- though not all will be needed on a full time basis.
 Contractors are encouraged to use their own estimating methodology to
-determine the skill mix and level of effort necessary to successfull perform this task order.
+determine the skill mix and level of effort necessary to successfully perform this task order.
 
 ### 5.8 Travel
 
@@ -427,7 +417,7 @@ calendar days after the Post Award Conference.
 
 The primary place of performance will be at the contractor’s facility.
 Work may be performed at GSA Headquarters at 1800 F St. NW, Washington,
-DC, and Alternate Sites. 18F is a distributed team.
+DC, or two DOL locations: Frances Perkins Building 200 Constitution Ave NW, Washington, DC 20210 or Patriot Plaza 375 E St SW, Washington, DC 20024 and other Alternate Sites. 18F is a distributed team.
 
 Business core hours shall be 0900 to 1800 local time, Monday – Friday on
 Government scheduled work days. The contractor may set its own work
@@ -440,11 +430,9 @@ on Government work days.
 #### 6.4.1 Section 508 Compliance Requirement
 
 The contractor shall support the Government in its conformance with
-Section 508 throughout the development and implementation of the work
-to be performed.
+Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d) (Section 508) throughout the development and implementation of the work to be performed.
 
-Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C.
-794d) requires that when Federal agencies develop, procure, maintain,
+Section 508 requires that when Federal agencies develop, procure, maintain,
 or use electronic information technology, Federal employees with
 disabilities have access to and use of information and data that is
 comparable to the access and use by Federal employees who do not have
@@ -461,7 +449,7 @@ The following standard is applicable for compliance:
 
 The contractor should review the following websites for additional 508
 information:
-[http://www.section508.gov/index.cfm?FuseAction=Content&ID=12](http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=12)
+[http://www.section508.gov/](http://www.section508.gov)
 <http://www.access-board.gov/508.htm>
 
 <http://www.w3.org/WAI/Resources>
@@ -489,7 +477,7 @@ This task order is not being used to procure personal services
 prohibited by FAR 37.104, Personal services contract.
 
 To counter the circumstances that infer personal services and to
-preserve the non- personal nature of the contract, the contractor shall
+preserve the non-personal nature of the contract, the contractor shall
 adhere to the following guidelines in the performance of the task:
 
 -   Contractor provides for direct supervision of all contract employees
@@ -609,11 +597,11 @@ system.
 
 The following Points of Contact (POC) are applicable to this order:
 
-**Contracting Officer Representative and 18F Product Manager(COR)**: Rebecca Refoy-Sidibe GSA, Office of
+**Contracting Officer Representative (COR) and 18F Product Manager**: Rebecca Refoy-Sidibe GSA, Office of
 Citizen Services and Innovative Technologies (OCSIT) - 18F
 <rebecca.refoy-sidibe@gsa.gov> (202) 809-4519
 
-**Client Product Owner**: *[To Be Determined]*
+**Client Product Owner**: ** Elizabeth Striegel,  <Striegel.Elizabeth@dol.gov> (000) 000-0000
 
 **GSA Procurement Project Manager**: Name TBD, Assisted Acquisition
 Services (AAS) <email@gsa.gov> (000) 000-0000
@@ -705,6 +693,6 @@ been paid the Contractor shall furnish a completed and signed Release
 of Claims (GSA Form 1142) to the Contracting Officer. This release of
 claims is due within 15 calendar days of final payment.
 
-Upon successful performance, the Contractor and Goverment may engage in celebratory dance.
+Upon successful performance, the Contractor and Government may engage in celebratory dance.
 
 ### Attachment: QASP
