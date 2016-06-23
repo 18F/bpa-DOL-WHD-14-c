@@ -1,6 +1,6 @@
 # PERFORMANCE WORK STATEMENT (PWS) For the Department of Labor,
 # Wage and Hour Division
-# Section 14(c) Tool
+# Section 14(c) System
 
 ## [DATE]
 
@@ -10,9 +10,9 @@ The Department of Labor (DOL), Wage and Hour Division (WHD) will further improve
 
 ## 2.0 OBJECTIVES
 
-The 14(c) process will become a modern, digital-first service. Applicants will be provided an intuitive online experience, guiding them through the information needed to complete their application correctly. Applicants will have the ability to save their progress along the way, submit it to the system and see their application status. The application data will be made available to WHD users to inform certification and enforcement decisions. Applicants will have access to previous applications in order to apply for renewal. The product will support policy and process evolution over time, and will support data transparency wherever and however possible.
+The 14(c) system will become a modern, digital-first service. Applicants will be provided an intuitive online experience, guiding them through the information needed to complete their application correctly. Applicants will have the ability to save their progress along the way, submit it to the system and see their application status. The application data will be made available to WHD users to inform certification and enforcement decisions. Applicants will have access to previous applications in order to apply for renewal. The product will support policy and process evolution over time, and will support data transparency wherever and however possible.
 
-These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs.
+These user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs. User needs are prioritzed based on need here in a [Trello board] (https://trello.com/b/74MUGMpP).
 
 #### Applicants:
 - As an Employer, I would like to have my existing certifications associated with my account so that I can view them or renew them.
@@ -30,7 +30,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Manager and a Policy Team Member, I want access to all submitted application data, so that I can continuously evaluate and improve current policy and procedures. AC: Data should be sort-able, searchable and able to produce reports. AC: It should take no longer than 1 minute to pull reports.
 - As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
 - As a Certification Team Member, I need a system that allows me to easily navigate within it (logical tabbing, multiple screen use, etc.) so that I can work in a more efficient manner.
-- As a Certification Team Member and a Certification Team Manager, I want to be able to document issues/potential violations in an internal diary sheet (saved in historical record) so that systemic problems can be identified and analyzed.
+- As a Certification Team Member and a Certification Team Manager, I want to be able to document issues/potential violations in an internal diary sheet (saved in historical record) so that systemic problems can be identified and analyzed. Diary sheets have the functionality to be reviewed and have access to certificate team in addition to investigators and other WHD users.
 - As a Certification Team Manager and a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
 - As a Certification Team Manager and a Policy Team Member I want to be able to access and search all diary sheets so that I can review potential systemic violations.
 - As a Certification Team Manager, I want the system to assign applications to a certification team member based on set criteria, so that the application review process is more streamlined.
@@ -50,6 +50,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance or modification to the process is needed and to inform enforcement.
 - As a WHI, I need a system that easily tells me the status of an application and allows me to retrieve application data and internal diary records so that I can effectively perform the investigation.
 - As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
+- The system will include the following statuses for certification: pending, issued, withdrawn, amending, denied, revoked, expired
 
 #### Parent:
 - As a Parent, I want to know if my child's employer holds a certificate so that I know the employer has the right to pay less than the minimum wage.
@@ -57,7 +58,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 
 ## 3.0 SCOPE
 
-The scope of this task order is for the Contractor to deliver the 14(c) tool. The following four sections of the PWS
+The scope of this task order is for the Contractor to deliver the 14(c) system. The following four sections of the PWS
 describe the technical and administrative components of the
 requirement:
 
@@ -79,6 +80,7 @@ The Contractor shall provide the following services:
  - .NET or PHP
 - All users shall be authenticated and authorized so that only authorized users have access.
 - PII shall be secure and kept from exposure to unauthorized users from uploaded documents.
+- - System should advise users to redact SSN before uploading sensitive documents or the system will redact upon uploading.
 - CPS database shall be expanded to capture all information so that WHD will get all fields.
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
 - Must interface with PostgreSQL and allow create, retrieve, update, and delete as appropriate for the user's permissions. Must allow for migration to DB2.
@@ -202,7 +204,7 @@ Final report shall include list of sprint tasks completed,
 documentation, and link to code repository developed for 18F. Should
 the Contractor be terminated prior to the end of the period of
 performance, the Contractor shall transfer all project materials to
-the COR within two weeks of the COR’s request.
+the COR within 14 calendar days of the COR’s request.
 
 ### 5.6 Deliverables
 
@@ -210,11 +212,11 @@ the COR within two weeks of the COR’s request.
 
 | REQUIRED DELIVERABLES /  REPORTS                     | DUE DATES                                                          | DESCRIPTION OF DELIVERABLE CONTENT                                                               |
 |------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Status Reports                                       | 1 business day after each sprint                                   | A report of progress throughout each sprint                                                      |
+| Status Reports                                       | 1 calendar day after each sprint                                   | A report of progress throughout each sprint                                                      |
 | Code Repository of Product                           | End of task order                                                  | Version-controlled Open Source repository of code that comprises *widget*                       |
 | Development Prototype                                | End of second sprint, and every sprint thereafter                  | In-progress development prototype, accessible on the web via staging server / development server |
 | Working *widget* | End of task order                                                  |                                                                                                  |
-| Transition plan                                      | 3 business days after the conclusion  of the second-to-last sprint | See Section 5.5.1 of the PWS                                                                     |
+| Transition plan                                      | 5 calendar days after the conclusion  of the second-to-last sprint | See Section 5.5.1 of the PWS                                                                     |
 
 #### 5.6.1 Delivery Instructions
 
@@ -226,10 +228,10 @@ Acquisition Services Business System) web portal. Refer to Section
 
 #### 5.6.2 Inspection and Acceptance of Services
 
-Within 10 days of each sprint's conclusion, the Government will inspect, test, review and accept all periodic reports and task deliverables, as applicable.
+Within 10 calendar days of each sprint's conclusion, the Government will inspect, test, review and accept all periodic reports and task deliverables, as applicable.
 
 Only the COR, and their designated alternate, has the authority to accept or reject all deliverables. The COR will
-provide written final acceptance of all deliverables to the Contractor within 30 days from the end of the task
+provide written final acceptance of all deliverables to the Contractor within 30 calendar days from the end of the task
 order, via electronic means.
 
 Any Contractor performance to correct defects found by the
@@ -330,7 +332,7 @@ f)  The Contracting Officer, or duly designated COR, will evaluate the request(s
     other equitable adjustment.
 
 **The Project Manager** will be a direct liaison to the COR, 18F’s Project
-    Manager, and the Section 14(c) Tool Product Owner. The Project Manager is
+    Manager, and the Section 14(c) System Product Owner. The Project Manager is
     responsible for the supervision and management of the Contractor’s
     personnel, technical assistance, and interface. Desired
     skills and experience for the Project Manager include:
