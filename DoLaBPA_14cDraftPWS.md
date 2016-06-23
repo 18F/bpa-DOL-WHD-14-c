@@ -36,6 +36,7 @@ These user needs shall be met in order to fulfill the objectives for performance
 - As a Certification Team Manager, I want the system to assign applications to a certification team member based on set criteria, so that the application review process is more streamlined.
 - As a Certification Team Manager I want to be able to assign/reassign work so that the workload is balanced.
 - As a Certification Team Manager, Policy Team Member, Certification Team Member, and Non-WHD Interested Party, I want to be able to get descriptive data about the inventory of active and pending certificates so that I understand the current 14(c) universe.
+- As a Policy Team Member, I need certificate information (only what can be made public) to be pulled and posted to the WHD website so that we are transparent with section 14(c) certificate data.  AC: ability to post quarterly; AC: data can be searched, sorted and filtered.
 - As a Certification Team Manager and a Policy Team Member, I need a system that has user-friendly reporting functions so that I can provide information upon request (FOIA, etc.).
 - As a Certification Team Manager and a Policy Team Member, I want to track inventory so that I can provide reports/status updates to interested WHD parties.
 - As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14(c) history.
