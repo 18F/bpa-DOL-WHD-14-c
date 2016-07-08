@@ -1,4 +1,4 @@
-![](media/image01.png){width="1.0416666666666667in" height="1.0416666666666667in"}
+
 ==================================================================================
 
 Government Roles And Responsibilities For Department of Labor, Wage and Hour Division, 14(c) Web Application System Support
