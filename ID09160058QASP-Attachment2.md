@@ -1,4 +1,3 @@
-![](media/image01.png){width="1.0416666666666667in" height="1.0416666666666667in"}
 ==================================================================================
 
 Performance Based Quality Assurance Surveillance Plan (QASP) For the Department of Labor, Wage and Hour Division, Section 14(c) System
