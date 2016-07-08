@@ -1,6 +1,3 @@
-![](media/image01.png){width="1.0416666666666667in"
-height="1.0416666666666667in"}
-
 PERFORMANCE WORK STATEMENT (PWS)
 
 Client Order ID (COI) ID09160058
