@@ -41,173 +41,79 @@ here in a \[Trello board\] (https://trello.com/b/74MUGMpP).
 
 #### Applicants:
 
--   As an Employer, I would like to have my existing certifications
-    > associated with my account so that I can view them or renew them.
+-   As an Employer, I would like to have my existing certifications associated with my account so that I can view them or renew them.
 
--   As an Applicant, I want to submit my application via a web form so
-    > that the submission process is quicker and I no longer have to
-    > mail my application. Acceptance Criteria (AC): Data will end up in
-    > a database. AC: The applicant must be logged in.
+-   As an Applicant, I want to submit my application via a web form so that the submission process is quicker and I no longer have to mail my application. Acceptance Criteria (AC): Data will end up in a database. AC: The applicant must be logged in.
 
--   As an Applicant, I want conditional logic to ensure I only have to
-    > complete relevant sections so that I am not confused about what
-    > sections to complete and the time it takes to complete the
-    > application is reduced.
+-   As an Applicant, I want conditional logic to ensure I only have to complete relevant sections so that I am not confused about what sections to complete and the time it takes to complete the application is reduced.
 
--   As an Applicant, I want current links to compliance assistance
-    > materials (resources, suggestions, worksheets, data, etc.), so
-    > that I can complete the application correctly.
+-   As an Applicant, I want current links to compliance assistance materials (resources, suggestions, worksheets, data, etc.), so that I can complete the application correctly.
 
--   As an Applicant, I want the ability to log-in, so that the system
-    > knows who I am and my information is secure.
+-   As an Applicant, I want the ability to log-in, so that the system knows who I am and my information is secure.
 
-<!-- -->
+-   As an Applicant, I want the ability to save and retrieve my application in progress so I can work on the form in more than one session.
 
--   As an Applicant, I want the ability to save and retrieve my
-    > application in progress so I can work on the form in more than
-    > one session.
+-   As an Applicant, I want certain form fields to be pre-populated with previously used information when I begin a renewal application so that it takes less time to complete the application.
 
--   As an Applicant, I want certain form fields to be pre-populated with
-    > previously used information when I begin a renewal application so
-    > that it takes less time to complete the application.
+-   As an Applicant, I want to receive receipt confirmation and status updates via email notifications, so that I know where my application is in the process.
 
--   As an Applicant, I want to receive receipt confirmation and status
-    > updates via email notifications, so that I know where my
-    > application is in the process.
-
--   As an Applicant I want to be able to upload required documents
-    > (time studies) so that I can submit a complete application.
+-   As an Applicant I want to be able to upload required documents (time studies) so that I can submit a complete application.
 
 #### Certifying Parties:
 
--   As a Certification Team Member and as an Applicant, I want a system
-    > that performs preliminary data validation checks on fields that
-    > have predetermined or controlled answers (i.e. dates, rates,
-    > etc.), so that proper information is submitted and the
-    > certification team member spends more time analyzing the more
-    > substantive part of the application.
+-   As a Certification Team Member and as an Applicant, I want a system that performs preliminary data validation checks on fields that have predetermined or controlled answers (i.e. dates, rates, etc.), so that proper information is submitted and the certification team member spends more time analyzing the more substantive part of the application.
 
--   As a Certification Team Manager and a Policy Team Member, I want
-    > access to all submitted application data, so that I can
-    > continuously evaluate and improve current policy and procedures.
-    > AC: Data should be sortable, searchable and able to
-    > produce reports. AC: It should take no longer than 1 minute to
-    > pull reports.
+-   As a Certification Team Manager and a Policy Team Member, I want access to all submitted application data, so that I can continuously evaluate and improve current policy and procedures. AC: Data should be sortable, searchable and able to produce reports. AC: It should take no longer than 1 minute to pull reports.
 
--   As a Certification Team Member and a Certification Team Manager, I
-    > need a system that will only allow submission of a complete
-    > application (i.e. all applicable fields answered and documents
-    > attached), so that I can more effectively use time
-    > reviewing applications.
+-   As a Certification Team Member and a Certification Team Manager, I need a system that will only allow submission of a complete application (i.e. all applicable fields answered and documents attached), so that I can more effectively use time reviewing applications.
 
--   As a Certification Team Member, I need a system that allows me to
-    > easily navigate within it (logical tabbing, multiple screen
-    > use, etc.) so that I can work in a more efficient manner.
+-   As a Certification Team Member, I need a system that allows me to easily navigate within it (logical tabbing, multiple screen use, etc.) so that I can work in a more efficient manner.
 
--   As a Certification Team Member and a Certification Team Manager, I
-    > want to be able to document issues/potential violations in an
-    > internal diary sheet (saved in historical record) so that systemic
-    > problems can be identified and analyzed. Diary sheets have the
-    > functionality to be reviewed and have access to certificate team
-    > in addition to investigators and other WHD users.
+-   As a Certification Team Member and a Certification Team Manager, I want to be able to document issues/potential violations in an internal diary sheet (saved in historical record) so that systemic problems can be identified and analyzed. Diary sheets have the functionality to be reviewed and have access to certificate team in addition to investigators and other WHD users.
 
--   As a Certification Team Manager and a Policy Team Member, I want the
-    > system to produce trend data, so that I can make effective
-    > strategic enforcement decisions.
+-   As a Certification Team Manager and a Policy Team Member, I want the system to produce trend data, so that I can make effective strategic enforcement decisions.
 
--   As a Certification Team Manager and a Policy Team Member, I want to
-    > be able to access and search all diary sheets so that I can review
-    > potential systemic violations.
+-   As a Certification Team Manager and a Policy Team Member, I want to be able to access and search all diary sheets so that I can review potential systemic violations.
 
--   As a Certification Team Manager, I want the system to assign
-    > applications to a certification team member based on set criteria,
-    > so that the application review process is more streamlined.
+-   As a Certification Team Manager, I want the system to assign applications to a certification team member based on set criteria, so that the application review process is more streamlined.
 
--   As a Certification Team Manager I want to be able to assign/reassign
-    > work so that the workload is balanced.
+-   As a Certification Team Manager I want to be able to assign/reassign work so that the workload is balanced.
 
--   As a Certification Team Manager, Policy Team Member, Certification
-    > Team Member, and Non-WHD Interested Party, I want to be able to
-    > get descriptive data about the inventory of active and pending
-    > certificates so that I understand the current 14(c) universe.
+-   As a Certification Team Manager, Policy Team Member, Certification Team Member, and Non-WHD Interested Party, I want to be able to get descriptive data about the inventory of active and pending certificates so that I understand the current 14(c) universe.
 
--   As a Policy Team Member, I need certificate information (only what
-    > can be made public) to be pulled and posted to the WHD website so
-    > that we are transparent with section 14(c) certificate data. AC:
-    > ability to post quarterly; AC: data can be searched, sorted
-    > and filtered.
+-   As a Policy Team Member, I need certificate information (only what can be made public) to be pulled and posted to the WHD website so that we are transparent with section 14(c) certificate data. AC: ability to post quarterly; AC: data can be searched, sorted and filtered.
 
--   As a Certification Team Manager and a Policy Team Member, I need a
-    > system that has user-friendly reporting functions so that I can
-    > provide information upon request (FOIA, etc.).
+-   As a Certification Team Manager and a Policy Team Member, I need a system that has user-friendly reporting functions so that I can provide information upon request (FOIA, etc.).
 
--   As a Certification Team Manager and a Policy Team Member, I want to
-    > track inventory so that I can provide reports/status updates to
-    > interested WHD parties.
+-   As a Certification Team Manager and a Policy Team Member, I want to track inventory so that I can provide reports/status updates to interested WHD parties.
 
--   As a Certification Team Member, a Certification Team Manager and a
-    > Policy Team Member, I want access to employer
-    > application/certificate history within the system, so that I can
-    > review the employer's 14(c) history.
+-   As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I want access to employer application/certificate history within the system, so that I can review the employer's 14(c) history.
 
--   As a Certification Team Member, a Certification Team Manager and a
-    > Policy Team Member, I would like to be able to access the
-    > applicant's enforcement history from Wage and Hour Investigative
-    > Support and Reporting Database (WHISARD) within the system, so
-    > that the data can be used to inform the certification decision and
-    > so that staff spends less time researching and
-    > entering information.
+-   As a Certification Team Member, a Certification Team Manager and a Policy Team Member, I would like to be able to access the applicant's enforcement history from Wage and Hour Investigative Support and Reporting Database (WHISARD) within the system, so that the data can be used to inform the certification decision and so that staff spends less time researching and entering information.
 
--   As a Certification Team Member and a Certification Team Manager, I
-    > want the system to communicate with Certificates Processing
-    > System (CPS) and WHISARD to perform a validity check on the
-    > Employee Identification Number provided by the employer on the
-    > submitted application.
+-   As a Certification Team Member and a Certification Team Manager, I want the system to communicate with Certificates Processing System (CPS) and WHISARD to perform a validity check on the Employee Identification Number provided by the employer on the submitted application.
 
--   As a Certification Team Manager, a Certification Team Member and a
-    > Policy Team Member, I want the system to flag all previously
-    > denied or revoked applicants, so that additional review may be
-    > conducted and appropriate certificate action taken.
+-   As a Certification Team Manager, a Certification Team Member and a Policy Team Member, I want the system to flag all previously denied or revoked applicants, so that additional review may be conducted and appropriate certificate action taken.
 
--   As a Certification Team Member, I need a system that allows me to
-    > create reports of my workload, organize calendar events and report
-    > time spent on activities (WH-40), so that I can manage my work.
+-   As a Certification Team Member, I need a system that allows me to create reports of my workload, organize calendar events and report time spent on activities (WH-40), so that I can manage my work.
 
--   As a Certification Team Manager I want the system to track
-    > specialist time and transfer information to the WH-40 so that time
-    > is appropriately charged against a case.
+-   As a Certification Team Manager I want the system to track specialist time and transfer information to the WH-40 so that time is appropriately charged against a case.
 
--   As a Certification Team Manager, I want productivity data (number of
-    > applications processed, length of time from receipt to
-    > decision, etc.) of each specialist so that I can evaluate
-    > performance, restructure processes and make other improvements.
+-   As a Certification Team Manager, I want productivity data (number of applications processed, length of time from receipt to decision, etc.) of each specialist so that I can evaluate performance, restructure processes and make other improvements.
 
--   As a Policy Team member, Certification Team Manager and Applicant, I
-    > want the system to provide the online calculators as an option, so
-    > that standard and accurate information is submitted.
+-   As a Policy Team member, Certification Team Manager and Applicant, I want the system to provide the online calculators as an option, so that standard and accurate information is submitted.
 
--   As a Certification Team Manager and a Policy Team Member, I want
-    > data that shows where applicants struggle to complete the
-    > application, so that we understand where additional compliance
-    > assistance or modification to the process is needed and to
-    > inform enforcement.
+-   As a Certification Team Manager and a Policy Team Member, I want data that shows where applicants struggle to complete the application, so that we understand where additional compliance assistance or modification to the process is needed and to inform enforcement.
 
--   As a Wage and Hour Investigator, I need a system that easily tells
-    > me the status of an application and allows me to retrieve
-    > application data and internal diary records so that I can
-    > effectively perform the investigation.
+-   As a Wage and Hour Investigator, I need a system that easily tells me the status of an application and allows me to retrieve application data and internal diary records so that I can effectively perform the investigation.
 
--   As a WHD Field Manager, I want to be able to check certificate and
-    > application status so that I take correct enforcement action.
+-   As a WHD Field Manager, I want to be able to check certificate and application status so that I take correct enforcement action.
 
--   The system will include the following statuses for certification:
-    > pending, issued, withdrawn, amending, denied, revoked, expired.
+-   The system will include the following statuses for certification: pending, issued, withdrawn, amending, denied, revoked, expired.
 
 #### Parent:
 
--   As a Parent, I want to know if my child's employer holds a
-    > certificate so that I know the employer has the right to pay less
-    > than the minimum wage.
+-   As a Parent, I want to know if my child's employer holds a certificate so that I know the employer has the right to pay less than the minimum wage.
 
 3.0 SCOPE
 ---------
@@ -218,12 +124,9 @@ and administrative components of the requirement:
 
 -   Tasks the vendor must perform **(Section 4)**.
 
--   Task requirements that describe to the vendor specifics about how
-    > the vendor performs the tasks **(Section 5)**.
+-   Task requirements that describe to the vendor specifics about how the vendor performs the tasks **(Section 5)**.
 
--   Generalized administrative requirements that are contract-oriented
-    > such as type of contract, period of performance, etc. as opposed
-    > to functional requirements of performance **(Section 6)**.
+-   Generalized administrative requirements that are contract-oriented such as type of contract, period of performance, etc. as opposed to functional requirements of performance **(Section 6)**.
 
 -   Invoicing Instructions **(Section 7)**.
 
@@ -232,63 +135,39 @@ and administrative components of the requirement:
 
 The Contractor shall provide the following services:
 
--   Vendor shall select a technology stack such that the stated needs
-    > can be accomplished and deployed within the DOL network.
-    > Technology stack options that are already approved within DOL are
-    > listed below in declining order of preference:
+-   Vendor shall select a technology stack such that the stated needs can be accomplished and deployed within the DOL network. Technology stack options that are already approved within DOL are listed below in declining order of preference:
 
     -   Ruby on Rails
 
     -   .NET or PHP
 
--   All users shall be authenticated and authorized so that only
-    > authorized users have access.
+-   All users shall be authenticated and authorized so that only authorized users have access.
 
--   Personal Identity Information (PII) shall be secure and kept from
-    > exposure to unauthorized users from uploaded documents.
+-   Personal Identity Information (PII) shall be secure and kept from exposure to unauthorized users from uploaded documents.
 
--   System should advise users to redact Social Security Number (SSN)
-    > before uploading sensitive documents or the system will redact
-    > upon uploading.
+-   System should advise users to redact Social Security Number (SSN) before uploading sensitive documents or the system will redact upon uploading.
 
--   CPS database shall be expanded to capture all information so that
-    > WHD will get all fields.
+-   CPS database shall be expanded to capture all information so that WHD will get all fields.
 
--   Work with DOL's Office of Chief Information Officer in order for the
-    > System to receive Authority to Operate.
+-   Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
 
--   Must interface with PostgreSQL and allow create, retrieve, update,
-    > and delete as appropriate for the user's permissions. Must allow
-    > for migration to DB2.
+-   Must interface with PostgreSQL and allow create, retrieve, update, and delete as appropriate for the user's permissions. Must allow for migration to DB2.
 
--   Provide an import function for existing data in CSV or
-    > similar format.
+-   Provide an import function for existing data in CSV or similar format.
 
--   Provide a startup script for bootstrapping the system in a
-    > fresh environment.
+-   Provide a startup script for bootstrapping the system in a fresh environment.
 
 ### Additional requirements:
 
--   Contractor shall use [US Web
-    > Design Standards.](https://playbook.cio.gov/designstandards/)
+-   Contractor shall use [US Web Design Standards.](https://playbook.cio.gov/designstandards/)
 
--   All software code delivered under this order shall comply with the
-    > [18F open source
-    > policy](http://https/github.com/18F/open-source-policy/) in effect
-    > as of the date of award.
+-   All software code delivered under this order shall comply with the [18F open source policy](http://https/github.com/18F/open-source-policy/) in effect as of the date of award.
 
--   All software code delivered under this order shall comply with the
-    > [18F accessibility
-    > guidelines](https://pages.18f.gov/accessibility/) in effect as of
-    > the date of award.
+-   All software code delivered under this order shall comply with the [18F accessibility guidelines](https://pages.18f.gov/accessibility/) in effect as of the date of award.
 
--   As part of this being purchased off of the Agile Blanket Purchase
-    > Agreement (aBPA), work will be conducted in two-week sprints and
-    > reviewed at the end of each sprint for acceptability before
-    > moving on.
+-   As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on.
 
--   Integration testing for quality assurance purposes should be
-    > conducted in a staged environment at DOL.
+-   Integration testing for quality assurance purposes should be conducted in a staged environment at DOL.
 
 ### Note the following tasks are *not* required:
 
@@ -333,13 +212,9 @@ documented for each sprint's period of performance as follows:
 
 -   Screenshots of any available visualization (as appropriate)
 
--   Screenshots, links, or other documentation from the contractor’s
-    > project management system reflecting completed features, including
-    > number and percentage of completed sprint tasks (e.g. percentage
-    > of tasks completed)
+-   Screenshots, links, or other documentation from the contractor’s project management system reflecting completed features, including number and percentage of completed sprint tasks (e.g. percentage of tasks completed)
 
--   Access to the contractor’s project management tool to view
-    > development status
+-   Access to the contractor’s project management tool to view development status
 
 ### 5.4 Daily Operations
 
@@ -351,8 +226,7 @@ Daily operations may include:
 
 -   Chat operations via Slack
 
--   Manage and update user stories + workflow tasks in shared project
-    > management platform
+-   Manage and update user stories + workflow tasks in shared project management platform
 
 ### 5.5 Transition
 
@@ -540,8 +414,7 @@ skills and experience for the Project Manager include:
 
 -   Ability to understand and simplify customer requirements.
 
--   Ability to communicate end user feedback to technical and
-    > design leads.
+-   Ability to communicate end user feedback to technical and design leads.
 
 -   Strong communication skills.
 
@@ -795,11 +668,11 @@ shall govern data and deliverables produced under the contract.
 
 ### 6.10.1 Government Data
 
-### DOL retains sole ownership of all data for which it provides Contractor access or that the Government places, stores, or generates on applications and/or infrastructure utilized by Contractor in performance of the contract (“DOL-furnished Data”). Contractor shall ensure that, during the term of the contract and for any period of time beyond the contract term that Contractor maintains possession or control of any DOL-furnished Data, DOL retains on demand access and download capability of all data for any purpose, including but not limited to research, investigation, transfer, or migration to other systems. 
+### DOL retains sole ownership of all data for which it provides Contractor access or that the Government places, stores, or generates on applications and/or infrastructure utilized by Contractor in performance of the contract (“DOL-furnished Data”). Contractor shall ensure that, during the term of the contract and for any period of time beyond the contract term that Contractor maintains possession or control of any DOL-furnished Data, DOL retains on demand access and download capability of all data for any purpose, including but not limited to research, investigation, transfer, or migration to other systems.
 
 ### Contractor shall not use, copy, modify, or distribute to others any DOL-furnished Data, except as required for the performance of the contract, or unless written permission to do so is provided by the Contracting Officer. Contractor shall provide the Contracting Officer notice immediately of any third-party request for DOL-furnished Data and such a request shall not be fulfilled without the Contracting Officer’s prior written approval.
 
-### 6.10.2 Contractor’s handling of DOL Data 
+### 6.10.2 Contractor’s handling of DOL Data
 
 ### Contractor shall establish appropriate administrative and physical safeguards to ensure the security and confidentiality of DOL-furnished Data and to protect against any anticipated threats or hazards to their security or integrity, which could result in substantial harm, embarrassment, inconvenience, or unfairness to an individual. Contractor will report immediately any actual or suspected theft or loss of PII to the COR. In the event the COR is not available, Contractor will report the theft or loss to the DOL Computer Incident Response Capability (CSIRC) team at [*dolcsirc@dol.gov*](mailto:dolcsirc@dol.gov).
 
@@ -934,10 +807,8 @@ claims is due within 15 calendar days of final payment.
 Upon successful performance, the Contractor and Government may engage in
 celebratory dance.
 
-### Attachments: 
+### Attachments:
 
-1.  ### QASP
+1.  **QASP**
 
 2.  **Government Roles and Responsibilities**
-
-
