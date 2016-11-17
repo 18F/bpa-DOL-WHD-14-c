@@ -12,7 +12,7 @@ Offers were due by July 25th, 2016, at 6pm.
 
 ## Project Award & Development
 The project was awarded and development is being done.
-The repository with all code and documentation is available [here.](https://github.com/18F/dol-whd-14c)
+All code and documentation is available [in the development repository.](https://github.com/18F/dol-whd-14c)
 
 
 
