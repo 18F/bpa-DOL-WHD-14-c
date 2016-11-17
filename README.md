@@ -8,7 +8,11 @@ The Department of Labor (DOL), Wage and Hour Division (WHD) will further improve
 
 The documents in this repository are posted to eBuy under RFQ#1110470. The documents in eBuy should always be considered the documents of record. Please submit any questions by Jul 18th, 2016, at 6pm. Please note at this time that 18F and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors. Comments from other parties will still be considered but we cannot commit to responding to them.
 
-Offers are due by July 25th, 2016, at 6pm.
+Offers were due by July 25th, 2016, at 6pm.
+
+## Project Award & Development
+The project was awarded and development is being done.
+The repository with all code and documentation is available [here.](https://github.com/18F/dol-whd-14c)
 
 
 
