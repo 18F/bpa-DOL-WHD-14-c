@@ -1,7 +1,7 @@
-# Question/Comment on the 14(c) Web Application Tool
+# Question/Comment on Department of Labor 14(c) RFQ
 
 ## Name and affiliation
-{please provide information about your job/role in the acquistion process as well as your organization} 
+{please provide information about your job/role in the Agile BPA process as well as your organization} 
 
 ## Section of RFQ documents
 {please be specific about the section of the RFQ documents you have a question or comment about, if applicable}  
