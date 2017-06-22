@@ -108,7 +108,7 @@ During the transition to the Government or a new contractor, the Contractor shal
 - Continuation of full services to TTS and other customers
 - Participation in meetings with the Government or a new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables, at COR and the TTS Product Lead's discretion
 - Training of new personnel, either Government or a new contractor, during transition period
-Appropriate close-out of any outstanding technical and related performance elements for this task
+- Appropriate close-out of any outstanding technical and related performance elements for this task
  
 The final report shall include a list of sprint tasks completed, documentation, and a link to the code repository developed for TTS. Should the Contractor be terminated prior to the end of the period of performance, the Contractor shall transfer all project materials to the COR and the TTS Product Lead within two weeks of the COR and the TTS Product Lead’s request.
  
