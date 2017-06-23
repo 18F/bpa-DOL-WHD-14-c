@@ -38,7 +38,7 @@ Details about what we're looking for from Key Personnel are explained in [sectio
 
 ### Period of performance
 
-There will be a Base Period of 4 months. Details are explained in [section 8.1.2 of our RFQ](solicitation_documents/RFQ.md#812-period-place-and-hours-of-performance). (Note: The start date will be determined at award. Commencement of work is anticipated to occur immediately following the Vendor Kickoff meeting described in [2.4](solicitation_documents/RFQ.md#24-post-award-orientation-conference).)
+There will be a Base Period of 4 months. Details are explained in [section 8.1.2 of our RFQ](solicitation_documents/RFQ.md#812-period-place-and-hours-of-performance). (Note: The start date will be determined at award. Commencement of work is anticipated to occur immediately following the Vendor Kickoff meeting described in [section 2.4](solicitation_documents/RFQ.md#24-post-award-orientation-conference).)
 
 ## Contents
 
