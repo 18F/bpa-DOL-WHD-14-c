@@ -166,7 +166,8 @@ The following milestones are provided for this solicitation.
 |----------|:-------------:|------:|
 | 1 | June 21, 2017 | Solicitation Released |
 | 2 | June 28, 2017 by 3:00PM EST | Questions about Solicitation Due |
-| 3 | July 10, 2017, 2017 by 1:00PM EST | Written Quote Submissions Due |
+| 3 | July 10, 2017, 2017 by 1:00PM EST | Original deadline for Written Quote Submissions |
+| 4 | July 13, 2017, 2017 by 1:00PM EST | Extended deadline for Written Quote Submissions |
  
 If you’d like to ask questions or comments about this RFQ, you must submit them as issues in our GitHub repository at https://github.com/18F/bpa-DOL-WHD-14-c no later than **the date above**, to allow the Government sufficient time to respond. All questions and comments will be publicly available. Please subscribe to the repository if your firm would like updates about changes and comments. Questions or comments received after the required deadline will not be answered. Any changes to this RFQ or attachments will be posted as an amendment on GSA eBuy.
  
